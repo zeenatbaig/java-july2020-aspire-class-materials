@@ -13,8 +13,8 @@ import com.aspire.classroster.dao.ClassRosterDaoFileImpl;
 import com.aspire.classroster.service.ClassRosterServiceLayer;
 import com.aspire.classroster.service.ClassRosterServiceLayerImpl;
 import com.aspire.classroster.ui.ClassRosterView;
-import com.aspire.userio.UserIO;
-import com.aspire.userio.UserIOConsoleImpl;
+import com.aspire.classroster.ui.UserIO;
+import com.aspire.classroster.ui.UserIOConsoleImpl;
 
 /**
  *

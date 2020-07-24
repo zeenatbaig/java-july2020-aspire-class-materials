@@ -5,7 +5,8 @@
  */
 package com.aspire.classroster.ui;
 
-import com.aspire.userio.UserIO;
+import com.aspire.classroster.ui.UserIO;
+import com.aspire.classroster.ui.UserIOConsoleImpl;
 import com.aspire.classroster.dto.Student;
 import java.util.List;
 
